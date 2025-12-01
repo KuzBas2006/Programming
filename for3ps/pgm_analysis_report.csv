@@ -1,0 +1,16 @@
+Image,MSE,PSNR,MAE
+filtered_3_image1.pgm,74.4349,29.413,3.61929
+filtered_5_image1.pgm,138.01,26.7317,5.30445
+filtered_7_image1.pgm,197.099,25.184,6.45723
+filtered_3_image2.pgm,44.9283,31.6056,3.55957
+filtered_5_image2.pgm,110.934,27.6802,6.08029
+filtered_7_image2.pgm,172.622,25.7598,7.35664
+filtered_3_image3.pgm,52.1309,30.9598,3.38778
+filtered_5_image3.pgm,106.015,27.8771,5.59564
+filtered_7_image3.pgm,133.917,26.8624,6.72846
+filtered_3_image4.pgm,7.47331,39.3957,0.504014
+filtered_5_image4.pgm,25.9789,33.9846,1.10071
+filtered_7_image4.pgm,64.786,30.016,1.8244
+filtered_3_image5.pgm,37.0027,32.4485,2.79404
+filtered_5_image5.pgm,83.639,28.9067,4.55841
+filtered_7_image5.pgm,129.993,26.9916,5.57353
